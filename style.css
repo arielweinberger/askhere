@@ -1,0 +1,23 @@
+html, body {
+  direction: rtl;
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+}
+
+blockquote {
+  border-right: 10px solid #4F799E;
+  background: #E8EDF1;
+  padding: 8px 12px;;
+  display: inline-block;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 34px;
+  border-top: 2px solid #4F799E;
+  text-align: center;
+}
